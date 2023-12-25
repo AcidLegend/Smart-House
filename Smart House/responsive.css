@@ -1,0 +1,30 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+    .interior {
+        display: block;
+        width: 90%;
+        margin: auto;
+    }
+    .card {
+        width: 100%;
+        margin: 30px auto;
+    }
+    .container {
+        padding: 5px;
+        width: 90%;
+    }
+    .para {
+        width: 90%;
+    }
+    .jumbo h1 > b {
+        display: block;
+    }
+    .dishes {
+        display: none;
+    }
+    section {
+        display: block;
+    }
+}
+
